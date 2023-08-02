@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My happy places are where I find myself contributing meaningfully to missions that align with my values. Building clever solutions and refactoring existing ones is how I get there. Currently expanding on my experience with full-stack development in python & javascript
+
+Welcome to my github :)
+
+
+
 <!--
 **benklee127/benklee127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
