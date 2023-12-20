@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My happy places are where I find myself contributing meaningfully to missions that align with my values. Building clever solutions and refactoring existing ones is how I get there. Currently expanding on my experience with full-stack development in python & javascript
+I'm happiest when I'm making a difference in projects that matter to me. I love coming up with neat solutions and fixing things up. Right now, I'm diving deeper into full-stack development, primarily with Python and JavaScript.
 
 Thanks for stopping by :)
 
