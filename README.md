@@ -2,7 +2,9 @@
 
 I'm happiest when I'm making a difference in projects that matter to me. I love coming up with neat solutions and fixing things up. Right now, I'm diving deeper into full-stack development, primarily with Python and JavaScript.
 
-Thanks for stopping by :)
+On the weekends you can find me playing ultimate frisbee, mingling with friends, or exploring an odd thrift shop
+
+Appreciate you stopping by :)
 
 
 
